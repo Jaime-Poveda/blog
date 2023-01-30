@@ -1,0 +1,25 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaime-Poveda/blog.git"
+  },
+  "author": "Jaime Poveda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaime-Poveda/blog/issues"
+  },
+  "homepage": "https://github.com/Jaime-Poveda/blog#readme",
+  "dependencies": {
+    "express-fileupload": "^1.4.0",
+    "express.js": "^1.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
